@@ -1,0 +1,46 @@
+body{
+    margin: auto;
+}
+
+img {
+    background-color: black;
+}
+
+#header{
+    font-family: 'Lora', serif;
+    font-size: 1.5em;
+    padding-bottom: 8px;
+    border-bottom: 3px solid black;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 1px;
+    background-color: #52b69a;
+    color: #faedcd;
+    text-shadow: 2px 2px black;
+    margin: 0px;
+}
+
+div {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+
+span {
+    display: block;
+    text-align: center;
+    text-decoration: black underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.goodScore{
+    background-color: lightgreen;
+}
+
+.badScore {
+    background-color: lightcoral;
+}
+
+.movieBackground{
+    background-color: lightgrey;
+}
